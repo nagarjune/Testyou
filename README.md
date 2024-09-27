@@ -2,7 +2,7 @@
 
 Webex Connect Android SDK provides a messaging framework that enables app developers to embed bidirectional in-app messaging and interactive push notifications capabilities within their mobile applications.
 
-# V3.0.0 Modularized SDKs
+## V3.0.0 Modularized SDKs
 
 We have introduced new modularized SDKs in version 3.0.0, each designed to offer specific functionality. Please follow the below table to get more details of each module and its functionality. This will help you to understand what's available in each module and decide which modules you want to integrate into your applications.
 
@@ -14,7 +14,7 @@ We have introduced new modularized SDKs in version 3.0.0, each designed to offer
 | webexconnect-hms | The hms module integrates Huawei Mobile Services to handle push notifications for devices with Huawei Mobile Services. |
 | webexconnect-inappmessaging | The inappmessaging module offers both one-way and two-way messaging capabilities for your app. |
 
-# V2.X.X Legacy Core SDK Flavours
+## V2.X.X Legacy Core SDK Flavours
 
 We continue to support the old SDKs alongside the new modularized versions.
 
