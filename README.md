@@ -27,9 +27,9 @@ We continue to support the old SDKs alongside the new modularized versions.
 
 Both the Full and Lite SDKs are independent of each other. You can use either one depending on your use case.
 
-## Documentation Refences**
+## Documentation References
 
-| **Documentation Refences** | **2.x** | **3.x** |
+| **Documentation References** | **2.x** | **3.x** |
 | --- | --- | --- |
 | Overview of SDKs | [Link](https://developers.webexconnect.io/docs/overview-of-sdks) |     |
 | SDK Flavours / Features | [Link](https://developers.webexconnect.io/docs/sdk-vs-sdk-lite) |     |
