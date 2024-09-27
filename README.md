@@ -8,11 +8,11 @@ We have introduced new modularized SDKs in version 3.0.0, each designed to offer
 
 | **Module** | **Description** |
 | --- | --- |
-| WebexConnectCore<br><br>(Mandatory) | The Core module is the foundation of the Webex Connect SDK. It provides essential functionality that all other modules depend on, including initialization, configuration, registration, and shared utilities. |
+| WebexConnectCore<br>(Mandatory) | The Core module is the foundation of the Webex Connect SDK. It provides essential functionality that all other modules depend on, including initialization, configuration, registration, and shared utilities. |
 | WebexConnectPush | The push module enables your application to receive and handle push notifications. It abstracts the underlying push notification service, providing customized support for notification management. |
 | WebexConnectInAppMessaging | The inappmessaging module offers both one-way and two-way messaging capabilities for your app. |
 
-## V2.X.X Legacy Core SDK Flavours**
+## V2.X.X Legacy Core SDK Flavours
 
 We continue to support the old SDKs alongside the new modularized versions.
 
@@ -29,7 +29,7 @@ Both the Full and Lite SDKs are independent of each other. You can use either on
 
 ## Documentation Refences**
 
-| **Documentation Refences** | 2.x | 3.x |
+| **Documentation Refences** | **2.x** | **3.x** |
 | --- | --- | --- |
 | Overview of SDKs | [Link](https://developers.webexconnect.io/docs/overview-of-sdks) |     |
 | SDK Flavours / Features | [Link](https://developers.webexconnect.io/docs/sdk-vs-sdk-lite) |     |
