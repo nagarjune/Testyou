@@ -31,7 +31,7 @@ We continue to support the old SDKs alongside the new modularized versions.
 
 Both the SDKs are independent of each other. You can use either one of them depending on your use case.
 
-# Documentation Refences
+## Documentation Refences
 
 | **Documentation Refences** | **2.x** | **3.x** |
 | --- | --- | --- |
@@ -40,11 +40,11 @@ Both the SDKs are independent of each other. You can use either one of them depe
 | Quick Start Guide | [Link](https://developers.webexconnect.io/docs/quickstart-guide-2) | [Link](https://developers.webexconnect.io/docs/android-modularization-sdk-quick-start-guide) |
 | SDK Migration from 2.x to 3.x | [Link](https://developers.webexconnect.io/docs/android-sdk-migration-document-from-2x-to-3x) |
 
-# Support
+## Support
 
 - [Webex Connect Support](https://developers.imiconnect.io/docs/imiconnect-support)
 
-# License
+## License
 All contents are licensed under the Cisco EULA
 
 See [License](https://www.cisco.com/c/en/us/products/end-user-license-agreement.html) for details.
