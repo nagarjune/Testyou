@@ -57,7 +57,3 @@ All contents are licensed under the Cisco EULA
 (<https://www.cisco.com/c/en/us/products/end-user-license-agreement.html>)
 
 \_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\__
-
-**Change log.**
-
-Webex Connect Android SDK with Changelog can be found [here](https://developers.imiconnect.io/docs/android-sdk-release-notes).
