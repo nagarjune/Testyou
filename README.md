@@ -1,4 +1,3 @@
-**Core SDK**
 
 **Webex Connect Android SDK**
 
