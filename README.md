@@ -52,5 +52,5 @@ See LICENSE for details.
 
 All contents are licensed under the Cisco EULA
 
-See [License](LICENSE) for details.
+See [License](https://www.cisco.com/c/en/us/products/end-user-license-agreement.html) for details.
 
