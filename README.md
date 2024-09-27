@@ -2,9 +2,9 @@
 
 Webex Connect Android SDK provides a messaging framework that enables app developers to embed bidirectional in-app messaging and interactive push notifications capabilities within their mobile applications.
 
-## V3.0.0 Modularized SDKs
+## V3.X.X Modularized SDKs
 
-We have introduced new modularized SDKs in version 3.0.0, each designed to offer specific functionality. Please follow the below table to get more details of each module and its functionality. This will help you to understand what's available in each module and decide which modules you want to integrate into your applications.
+We have introduced new modularized SDKs in version 3.X.X, each designed to offer specific functionality. Please follow the below table to get more details of each module and its functionality. This will help you to understand what's available in each module and decide which modules you want to integrate into your applications.
 
 | **Module** | **Description** |
 | --- | --- |
