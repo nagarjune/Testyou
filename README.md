@@ -45,12 +45,9 @@ Both the SDKs are independent of each other. You can use either one of them depe
 - [Webex Connect Support](https://developers.imiconnect.io/docs/imiconnect-support)
 
 # License
-
-© 2000 - 2024 Cisco Systems, Inc. and/or its affiliates. All Rights Reserved.
-
-See LICENSE for details.
-
 All contents are licensed under the Cisco EULA
 
 See [License](https://www.cisco.com/c/en/us/products/end-user-license-agreement.html) for details.
+
+© 2000 - 2024 Cisco Systems, Inc. and/or its affiliates. All Rights Reserved.
 
