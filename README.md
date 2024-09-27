@@ -1,9 +1,8 @@
-
-**Webex Connect Android SDK**
+# Webex Connect Android SDK
 
 Webex Connect Android SDK provides a messaging framework that enables app developers to embed bidirectional in-app messaging and interactive push notifications capabilities within their mobile applications.
 
-**V3.0.0 Modularized SDKs**
+# V3.0.0 Modularized SDKs
 
 We have introduced new modularized SDKs in version 3.0.0, each designed to offer specific functionality. Please follow the below table to get more details of each module and its functionality. This will help you to understand what's available in each module and decide which modules you want to integrate into your applications.
 
@@ -15,7 +14,7 @@ We have introduced new modularized SDKs in version 3.0.0, each designed to offer
 | webexconnect-hms | The hms module integrates Huawei Mobile Services to handle push notifications for devices with Huawei Mobile Services. |
 | webexconnect-inappmessaging | The inappmessaging module offers both one-way and two-way messaging capabilities for your app. |
 
-**V2.X.X Legacy Core SDK Flavours**
+# V2.X.X Legacy Core SDK Flavours
 
 We continue to support the old SDKs alongside the new modularized versions.
 
@@ -32,20 +31,20 @@ We continue to support the old SDKs alongside the new modularized versions.
 
 Both the SDKs are independent of each other. You can use either one of them depending on your use case.
 
-**Documentation Refences**
+# Documentation Refences
 
 | **Documentation Refences** | **2.x** | **3.x** |
 | --- | --- | --- |
-| Overview of SDKs | [Link](https://developers.webexconnect.io/docs/overview-of-sdks) |     |
-| SDK Flavours / Features | [Link](https://developers.webexconnect.io/docs/sdk-vs-sdk-lite) |     |
+| Overview of SDKs | [Link](https://developers.webexconnect.io/docs/overview-of-sdks) |
+| SDK Flavours / Features | [Link](https://developers.webexconnect.io/docs/sdk-vs-sdk-lite) |
 | Quick Start Guide | [Link](https://developers.webexconnect.io/docs/quickstart-guide-2) | [Link](https://developers.webexconnect.io/docs/android-modularization-sdk-quick-start-guide) |
-| SDK Migration from 2.x to 3.x | [Link](https://developers.webexconnect.io/docs/android-sdk-migration-document-from-2x-to-3x) |     |
+| SDK Migration from 2.x to 3.x | [Link](https://developers.webexconnect.io/docs/android-sdk-migration-document-from-2x-to-3x) |
 
-**Support**
+# Support
 
 - [Webex Connect Support](https://developers.imiconnect.io/docs/imiconnect-support)
 
-**License**
+# License
 
 © 2000 - 2024 Cisco Systems, Inc. and/or its affiliates. All Rights Reserved.
 
@@ -53,6 +52,5 @@ See LICENSE for details.
 
 All contents are licensed under the Cisco EULA
 
-(<https://www.cisco.com/c/en/us/products/end-user-license-agreement.html>)
+See [License](LICENSE) for details.
 
-\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\__
