@@ -39,6 +39,7 @@ Both the SDKs are independent of each other. You can use either one of them depe
 | SDK Flavours / Features | [Link](https://developers.webexconnect.io/docs/sdk-vs-sdk-lite) ||
 | Quick Start Guide | [Link](https://developers.webexconnect.io/docs/quickstart-guide-2) | [Link](https://developers.webexconnect.io/docs/android-modularization-sdk-quick-start-guide) |
 | SDK Migration from 2.x to 3.x | [Link](https://developers.webexconnect.io/docs/android-sdk-migration-document-from-2x-to-3x) ||
+| Tall Cell     |          *Long Cell*          ||
 
 ## Support
 
